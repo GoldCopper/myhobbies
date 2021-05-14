@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background: linear-gradient(#9fde6f 0%, #5654e8 100%);
+    background-repeat: no-repeat;
+}
+
+#bio h1 {
+    text-shadow: 2px 2px #80CBC4;
+    font-size: 40px;
+}
+
+#bio h2 {
+    font-size: 30px;
+    text-shadow: 2px 2px #C5CAE9;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+}
+
+#bio p {
+    color: #1A237E;
+}
+
+#bio img {
+    border-radius: 50%;
+    width: 150px;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: aquamarine;
+    display: inline;
+}
+#ul {
+   text-align: center; 
+}
